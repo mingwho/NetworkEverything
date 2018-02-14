@@ -4,8 +4,7 @@
 
 #### Sketch:
 
-![sketch of necklace]
-(https://github.com/mingwho/NetworkEverything/blob/master/IoT-necklace.jpg)
+![image of sketch](https://github.com/mingwho/NetworkEverything/blob/master/IoT-necklace.jpg?raw=true)
 
 #### Idea and program structure:
 I want to make a wearable luminous knitted necklace as an IoT art project. The inspiration is from [this project](http://www.instructables.com/id/Arty-IoT-/) I ran into on Instructables.
