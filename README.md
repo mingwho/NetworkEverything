@@ -1,4 +1,18 @@
 # NetworkEverything
+
+### Journal #3 : 14 Feb 2018
+
+#### Sketch:
+
+![sketch of necklace]
+(https://github.com/mingwho/NetworkEverything/IoT-necklace.jpg)
+
+#### Idea and program structure:
+I want to make a wearable luminous knitted necklace as an IoT art project. The inspiration is from [this project](http://www.instructables.com/id/Arty-IoT-/) I ran into on Instructables.
+
+For this project, the program will be composed of two parts: one for the web interface so that users can control the lights or NeoPixels with their input. The other part will be for the Arduino to actually change light color.
+
+
 ### Journal #2 : 1 Feb 2018
 - Useful: <a href = "https://www.fitbit.com/home">Fitbit</a>
 
